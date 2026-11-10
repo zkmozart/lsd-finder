@@ -1,6 +1,6 @@
 {
-  "when": "2026-11-10T00:50:28.724Z",
-  "base": "http://localhost:4173/",
+  "when": "2026-11-10T00:52:58.591Z",
+  "base": "https://zkmozart.github.io/lsd-finder/",
   "forward": {
     "samples": 2116,
     "p50_m": 0.3,

@@ -1,7 +1,7 @@
 # LSD Finder E2E report
 
-Run: 2026-11-10T00:50:28.724Z
-Target: http://localhost:4173/
+Run: 2026-11-10T00:52:58.591Z
+Target: https://zkmozart.github.io/lsd-finder/
 
 Ground truth: 2116 official ATS v4.1 LSD polygons (Government of Alberta), area centroid: 800 random + 1,316 next to meridians and the BC border.
 
